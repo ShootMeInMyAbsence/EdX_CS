@@ -1,0 +1,6 @@
+C:\Users\jim.catney\documents\visual studio 2017\Projects\EdXModule1\EdXModule1\bin\Debug\EdXModule1.exe.config
+C:\Users\jim.catney\documents\visual studio 2017\Projects\EdXModule1\EdXModule1\bin\Debug\EdXModule1.exe
+C:\Users\jim.catney\documents\visual studio 2017\Projects\EdXModule1\EdXModule1\bin\Debug\EdXModule1.pdb
+C:\Users\jim.catney\documents\visual studio 2017\Projects\EdXModule1\EdXModule1\obj\Debug\EdXModule1.csprojResolveAssemblyReference.cache
+C:\Users\jim.catney\documents\visual studio 2017\Projects\EdXModule1\EdXModule1\obj\Debug\EdXModule1.exe
+C:\Users\jim.catney\documents\visual studio 2017\Projects\EdXModule1\EdXModule1\obj\Debug\EdXModule1.pdb
